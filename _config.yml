@@ -12,7 +12,7 @@ title                    : "Chu CHEN/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Chu CHEN"
 description              : &description "Ph.D. Student at City University of Hong Kong"
-url                      : https://github.com/chuchen1206/chuchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chuchen1206/chuchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chuchen1206/chuchen.github.io"
 
