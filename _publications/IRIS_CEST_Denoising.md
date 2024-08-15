@@ -1,7 +1,7 @@
 ---
 title: "Implicit Regression in Subspace for High-Sensitivity CEST Imaging"
 collection: publications
-category: Preprints
+category: preprints
 permalink: /publication/IRIS_CEST_Denoising
 date: 2024-07-09
 venue: 'arXiv Preprints'
