@@ -1,7 +1,7 @@
 ---
 title: "DMNR: Unsupervised De-noising of Point Clouds Corrupted by Airborne Particles"
 collection: publications
-category: Preprints
+category: preprints
 permalink: /publication/DMNR_PointCloudDenoising
 date: 2023-05-10
 venue: 'arXiv Preprints'
