@@ -12,9 +12,9 @@ title                    : "Chu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Chu CHEN"
 description              : &description "Ph.D. Student at City University of Hong Kong"
-url                      : https://chuchen1206.github.io/chuchen.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chuchen1206.github.io/chuchen # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chuchen1206/chuchen.github.io"
+repository               : "chuchen1206/chuchen"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
