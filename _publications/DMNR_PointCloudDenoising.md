@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/DMNR_PointCloudDenoising
 excerpt: ''
-date: 2023
+date: 2023-5-10
 venue: 'Journal 1'
 slidesurl: ''
 paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://arxiv.org/abs/2305.05991)'
