@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chu CHEN/Personal Homepage"
+title                    : "Chu's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Chu CHEN"
 description              : &description "Ph.D. Student at City University of Hong Kong"
