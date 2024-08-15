@@ -27,4 +27,4 @@ Teaching
   
 Service and leadership
 ======
-* President of the [SIAM Student Chapter of City University of Hong Kong](https://www.cityu.edu.hk/ma/siam-cityuhk-student-chapter)
+* President of the [SIAM CityUHK Student Chapter](https://www.cityu.edu.hk/ma/siam-cityuhk-student-chapter)
