@@ -25,6 +25,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
 * President of the [SIAM CityUHK Student Chapter](https://www.cityu.edu.hk/ma/siam-cityuhk-student-chapter)
