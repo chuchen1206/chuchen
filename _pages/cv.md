@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computational Mathematics, Dalian University of Technology, 2022
+* Ph.D. Student, Department of Mathematics, City University of Hong Kong, 2022-2026
+* Visiting Ph.D. Student, Department of Applied Mathematics and Theoretical Physics, University of Cambridge, 2025
+* B.S. in Computational Mathematics, Dalian University of Technology, 2018-2022
 
 Publications
 ======
